@@ -9,6 +9,7 @@ Atualmente sou estagiária de TI e tenho aprendido diversas habilidades, além d
  - Automação de Processos;
  - Pandas;
  - JavaScript;
+ - Robocorp;
  - HTML5 e CSS3;
  - NodeJS;
  - Windows Server;
