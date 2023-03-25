@@ -1,4 +1,4 @@
-## #Hello World! -4ssun
+## print("Hello World!")
 👩‍💻Graduanda em Engenharia de Software e membra da UNDB Software House.
 Atualmente sou estagiária de TI e tenho aprendido diversas habilidades, além de aprimorar outras habilidades prévias, dentre elas:
  - SQL Server;
