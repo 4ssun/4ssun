@@ -16,7 +16,9 @@ Atualmente sou estagiária de TI e tenho aprendido diversas habilidades, além d
  - Backup Exec;
  - Django;
  - FastAPI;
- 
+ - Azure;
+ - C++;
+ - Android Studio;
 🏹 Ainda estou me descobrindo nas áreas de atuação que poderei entrar daqui um tempo, sei que até o momento o meu interesse na área de dados tem me feito pensar em possibilidades futuras.
 🧠 Contando com meu golpe de sorte de ser uma rápida aprendiz e curiosa, busco absorver o máximo de cada experiência nas áreas que me encontro.
 
