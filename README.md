@@ -9,4 +9,3 @@ SQL Server; Python; RPA; Metodologias Ágeis; Resolução de Problemas; Automaç
 
 ![Logotipo - Assun (Preto)_resized](https://user-images.githubusercontent.com/95588838/209759015-1fdeebf7-703c-4f9c-80ac-96719ab35e10.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/4ssun/github-readme-stats)
