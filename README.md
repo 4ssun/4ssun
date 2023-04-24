@@ -2,15 +2,14 @@
 print("Hello World!")
 </h1>
 <p align="center">
-	<pre>
+	<pre >
     👩🏻‍💻 Graduanda em Engenharia de Software
     🎲 Data Analysis
     🤖 Automação e RPA
     💻 Python, C++ e Java
     🏹 Azure Cloud, Pandas 2.0, Django são meus estudos pessoais atualmente
     📚 Android Studio e DevC++ academicamente
-    👋 Conecte-se comigo no Linkedin! 
-               <a href="[https://www.linkedin.com/in/ana-assun%C3%A7%C3%A3o-428932217/]"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/></a>
+    👋 Conecte-se comigo no Linkedin! </br>             <a href="[https://www.linkedin.com/in/ana-assun%C3%A7%C3%A3o-428932217/]"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/></a>
 </pre>
 </p>
 <h1 align="center"> Overview </h1>
@@ -40,14 +39,18 @@ Pequeno dossiê das bibliotecas, frameworks,linguagens e ferramentas que gosto d
 </p>
 <br/>
 
-  <p align="left">
+  <p align="center">
 	<a href="https://github.com/4ssun">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&theme=gruvbox" alt="4ssun">
-	</a>
-  <p>
-  ![Logotipo - Assun (Preto)_resized](https://user-images.githubusercontent.com/95588838/209759015-1fdeebf7-703c-4f9c-80ac-96719ab35e10.png)
+	</a>	
   </p>
-	<br/>
+
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/95588838/209759015-1fdeebf7-703c-4f9c-80ac-96719ab35e10.png" width="100">
+</p>
+
+
 
 
 
