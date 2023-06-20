@@ -42,10 +42,11 @@ Pequeno dossiê das bibliotecas, frameworks,linguagens e ferramentas que gosto d
 
   <p align="center">
 	<a href="https://github.com/4ssun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&theme=gruvbox" alt="4ssun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&layout=compact&theme=one_dark_pro" alt="4ssun">
 	</a>	
   </p>
  <hr/>
+
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/95588838/209759015-1fdeebf7-703c-4f9c-80ac-96719ab35e10.png" width="100">
