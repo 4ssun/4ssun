@@ -3,7 +3,7 @@ print("Hello World!")
 </h1>
 <p align="center">
 	<pre >
-    👩🏻‍💻 Graduanda em Engenharia de Software
+    👩🏻‍💻 Graduanda em Big Data e IA pela PUC-GO
     🎲 Data Analysis
     🤖 Automação e RPA
     💻 Python, C++ e Java
