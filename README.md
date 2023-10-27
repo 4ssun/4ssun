@@ -3,8 +3,8 @@
 </h1>
 <p>
 	<pre align="center" >
-    👩🏻‍💻 Graduanda em Big Data e IA pela PUC-GO
-    🎲 Data Analysis
+    🎲 Graduanda em Big Data e IA pela PUC-GO
+    📊 Data Analysis
     🤖 Automação de Processos e Machine Learning
     💻 Python, SQL e R
     🏹 Azure Cloud, SQL e Machine Learning são meus estudos atuais
@@ -37,23 +37,24 @@ Abaixo constam as bilbiotecas, frameworks, ferramentas e pacotes que tenho conhe
 <a href="https://github.com/4ssun"><img alt="Azure" src="https://camo.githubusercontent.com/4d998de65effde43f6a487ad955a2b52fc5f0737d99dba38e2525631ce0be9cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572655f4465764f70732d3030373844373f7374796c653d666f722d7468652d6261646765266c6f676f3d617a7572652d6465766f7073266c6f676f436f6c6f723d7768697465"></a>
   <a href="https://github.com/4ssun"><img alt="Numpy" src="https://camo.githubusercontent.com/e4f918596bfc1a8746d3bf5426a212500a5b36b1e5c63869cbe65b071dcdb48a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465"></a>
 <a href="https://github.com/4ssun"><img alt="Google Cloud" src="https://camo.githubusercontent.com/71790379eb2459d3c732db11788bb8451c0a2cb106c711cc57f71bf528bdb764/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f436c6f75642d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465"></a>
+<a href="https://github.com/4ssun"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://github.com/4ssun"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+<a href="https://github.com/4ssun"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+"></a>
+<a href="https://github.com/4ssun"><img alt="" src=""></a>
+
 </p>
 <br/>
 
   <p align="center">
 	<a href="https://github.com/4ssun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&layout=compact&theme=one_dark_pro" alt="4ssun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&hide_progress=true&theme=one_dark_pro">
 	</a>	
   </p>
  <hr/>
 
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/95588838/209759015-1fdeebf7-703c-4f9c-80ac-96719ab35e10.png" width="100">
+  <img src="https://github.com/4ssun/4ssun/assets/95588838/2b2aa258-7da0-4c87-89cf-e0e7b5b6bc17" width="100">
 </p>
-
-
-
-
-
 
