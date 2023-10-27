@@ -39,9 +39,8 @@ Abaixo constam as bilbiotecas, frameworks, ferramentas e pacotes que tenho conhe
 <a href="https://github.com/4ssun"><img alt="Google Cloud" src="https://camo.githubusercontent.com/71790379eb2459d3c732db11788bb8451c0a2cb106c711cc57f71bf528bdb764/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f436c6f75642d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465"></a>
 <a href="https://github.com/4ssun"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://github.com/4ssun"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-<a href="https://github.com/4ssun"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-"></a>
-<a href="https://github.com/4ssun"><img alt="" src=""></a>
+<a href="https://github.com/4ssun"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+
 
 </p>
 <br/>
