@@ -4,20 +4,16 @@
 <p>
 	<pre align="center" >
     🎲 Graduanda em Big Data e IA pela PUC-GO
-    📊 Data Analysis
-    🤖 Automação de Processos e Machine Learning
-    💻 Python, SQL e R
-    🏹 Azure Cloud, SQL e Machine Learning são meus estudos atuais
+    📊 Analista de dados ➡️ Engenheira de dados
      <hr/><p align="center" >👋 Conecte-se comigo no <a href="https://www.linkedin.com/in/ana-assun%C3%A7%C3%A3o-428932217/">Linkedin</a>
 </p>
 </pre>
 
 </p>
 <br/>
-
   <p align="center">
 	<a href="https://github.com/4ssun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&hide_progress=true&theme=one_dark_pro">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssun&hide_progress=true&theme=ayu-mirage">
 	</a>	
   </p>
  <hr/>
