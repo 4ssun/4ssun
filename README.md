@@ -4,7 +4,7 @@
 <p>
 	<pre align="center" >
     🎲 Graduanda em Big Data e IA pela PUC-GO
-    📊 Analista de dados ➡️ Engenheira de dados
+    📊 Analista de dados
      <hr/><p align="center" >👋 Conecte-se comigo no <a href="https://www.linkedin.com/in/ana-assun%C3%A7%C3%A3o-428932217/">Linkedin</a>
 </p>
 </pre>
