@@ -96,4 +96,4 @@ Atuo na fronteira entre dados, engenharia e negócio: construo/mantenho pipeline
 
   <img src="https://github.com/4ssun/4ssun/assets/95588838/2b2aa258-7da0-4c87-89cf-e0e7b5b6bc17" width="100" alt="4ssun's logo">
 </p>
----
+
